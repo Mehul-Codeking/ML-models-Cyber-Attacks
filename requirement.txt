@@ -1,0 +1,9 @@
+FuzzyTM
+scikit-learn
+numpy
+pandas
+seaborn
+xgboost
+shap
+tensorflow==2.15.0
+scipy==1.13.0
